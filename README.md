@@ -1,2 +1,5 @@
-# rust_chapter_07
-Rust chapter VII
+# Rust chapter VII
+
+### Reference
+
+https://doc.rust-lang.org/stable/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
